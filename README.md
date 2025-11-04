@@ -1,5 +1,3 @@
-Creating a comprehensive `README.md` requires detail, clarity, and, in this case, a strong technical explanation of the simulated Proof-of-A.I. Algorithm (PoAIA) in three languages.
-
 Here is the full, multi-language `README.md` file you requested, detailing the system, AI key process, and the core reward mechanics.
 
 ---
